@@ -1,7 +1,7 @@
 #Forked from my company's Github to minitor the progress of the work and perform basic security testing
 #Not designed to committ changes on the main repo.
 
-# How to push from local machine to Github
+#How to push from local machine to Github
 #Clone your forked repository to your local machine
 #git clone https://github.com/yourusername/<repo name>
 
